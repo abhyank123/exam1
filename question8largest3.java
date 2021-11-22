@@ -1,3 +1,5 @@
+
+
 package assignement2;
 
 import java.util.Scanner;
@@ -23,10 +25,12 @@ public class question8largest3
             if((b>a)&&(b>c))
             {
                 System.out.println("b will be greater among three");
+                System.out.println("updated code");  
             }
             else
             {
                 System.out.println("c will be greater among three");
+                System.out.println("updated code");
             }
         }
     }
